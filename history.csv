@@ -1,0 +1,7 @@
+Date,Company,Prediction,Fraud Score
+2026-06-10 12:21:59.047184,Honeybee tech,Fake,98
+2026-06-10 12:22:49.574988,ROR technologies ,Fake,58
+2026-06-10 12:23:29.409778,ROR technologies ,Fake,35
+2026-06-10 12:28:31.234912,Big Bucks ,Legitimate,14
+2026-06-10 12:29:01.459864,Revamp Academy,Legitimate,24
+2026-06-10 12:29:43.036210,ROR technologies ,High Risk,98
